@@ -20,13 +20,14 @@ Solucionar travamentos comuns do VirtualBox ao lidar com sistemas legados e miti
 ## 📝 Entregáveis desta Etapa
 
 ### 📸 [EVIDÊNCIA]
-*Insira uma captura de tela da aba "Rede" do painel de controle do VirtualBox da sua VM demonstrando a modificação e isolamento do adaptador de rede para o modo seguro.*
+
+<img width="774" height="430" alt="Captura de tela 2026-05-22 132356" src="https://github.com/user-attachments/assets/10684b12-5198-4e08-8f14-2d962323d762" />
 
 ### ❓ [QUESTÃO 4]
 Se mantivéssemos o adaptador de rede da máquina virtual do Windows XP configurado no modo "Placa em modo Bridge (Bridged Adapter)" conectada à rede Wi-Fi/cabeada pública da instituição, quais seriam as consequências imediatas em termos de segurança cibernética para o laboratório e para a VM?
 
 **Sua Resposta:**
-> A configuração em modo bridge expõe diretamente a VM do Windows XP a ataques e infecções automatizadas por vulnerabilidades sem correção, transformando-a em um vetor de risco para toda a rede da instituição.
+> A configuração em modo bridge expõe diretamente a VM do Windows xp a ataques e infecções automatizadas por vulnerabilidades sem correção, transformando-a em um vetor de risco para toda a rede da instituição.
 
 ---
 ### 🏁 FIM DA ATIVIDADE
