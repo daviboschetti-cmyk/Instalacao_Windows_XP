@@ -1,3 +1,4 @@
+
 # Etapa 1: Planejamento e Preparação no VirtualBox
 
 ## 🎯 Objetivo
@@ -35,7 +36,9 @@ Configurar a máquina virtual no Oracle VM VirtualBox de forma compatível com a
 ## 📝 Entregáveis desta Etapa
 
 ### 📸 [EVIDÊNCIA]
-*Insira aqui uma captura de tela da aba "Armazenamento" do VirtualBox, mostrando a árvore de dispositivos com a Controladora IDE, o arquivo VDI e a ISO do XP montada.*
+
+<img width="722" height="546" alt="Captura de tela 2026-05-22 134458" src="https://github.com/user-attachments/assets/87b9ed7e-ab46-4c80-a8f5-3e53cf5d0db1" />
+
 
 ### ❓ [QUESTÃO 1]
 O VirtualBox permite o uso de controladoras do tipo SATA, IDE, SCSI e SAS. Por que para sistemas operacionais modernos (como Windows 11) a controladora SATA/NVMe é o padrão, enquanto para o Windows XP fomos obrigados a criar manualmente uma controladora IDE?
