@@ -31,7 +31,7 @@ Instalar os drivers de virtualização do pacote Guest Additions do VirtualBox p
 Quais recursos técnicos específicos passam a funcionar entre o sistema operacional real (hospedeiro) e a máquina virtual do Windows XP (convidado) após a instalação correta dos "Adicionais de Convidado" (Guest Additions)?
 
 **Sua Resposta:**
-> 
+> A instalação dos adicionais de convidado habilita a integração do mouse, o redimensionamento automático de tela, a aceleração gráfica 3D e o compartilhamento bidirecional de arquivos, pastas e área de transferência entre o hospedeiro e o Windows xp.
 
 ---
 [⬅️ Voltar para a Etapa 2](02-tarefa-instalacao.md) | [Ir para a Etapa 4 ➡️](04-tarefa-troubleshooting-seguranca.md)
