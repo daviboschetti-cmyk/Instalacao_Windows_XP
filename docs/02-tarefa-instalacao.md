@@ -41,7 +41,7 @@ Interagir com o instalador em modo texto dentro do ambiente virtualizado do Virt
 Se por engano você pressionasse uma tecla quando a VM reiniciou entre a Fase 1 e a Fase 2, o que aconteceria com o fluxo da atividade? O instalador continuaria de onde parou ou reiniciaria o processo do zero?
 
 **Sua Resposta:**
-> 
+> Se você pressionasse uma tecla, a atividade reiniciaria o processo do zero a partir da mídia ISO, interrompendo o fluxo atual.
 
 ---
 [⬅️ Voltar para a Etapa 1](01-tarefa-pre-requisitos.md) | [Ir para a Etapa 3 ➡️](03-tarefa-pos-instalacao.md)
